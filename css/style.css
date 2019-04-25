@@ -24,7 +24,7 @@ a {text-decoration:none;}
 .header img {width:100%;max-width:640px;}
 .nr_left {text-align:left;line-height: 20px;font-size:13px;float:left;width:60%;padding-top:10px;}
 .nr_right {right:0;width:40%;float:left;}
-.nr_right img{width:100%;}
+.nr_right img,.nr_left img{width:100%;}
 .w_320 {padding: 20px 10px;}
 .w_xx { text-align:center;clear:both;}
 .w_xx img{ width:60%;}
